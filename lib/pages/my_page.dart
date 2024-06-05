@@ -49,7 +49,7 @@ class MyPageMain extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               Text(
-                '80%나 완료되었어요!',
+                '80%나 완료되었어요tnwjd!',
                 style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
               ),
             ],
